@@ -7,6 +7,9 @@
 
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 1. Data Modeling - HW07_EmployeeSQL_ERD.png
+
+![EmployeeSQL ERD](EmployeeSQL/HW07_EmployeeSQL_ERD.png)
+
 2. Data Engineering - HW07_EmployeeSQL_Schema.sql
 3. Data Analysis - HW07_EmployeeSQL_Query.sql
 
