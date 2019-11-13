@@ -19,5 +19,12 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ![Avg Salary to Title Bar](EmployeeSQL/bonus/AverageSalary_by_Title.png)
 
-
 ## Purpose: use Data Modeling, Data Engineering, Data Analysis and BONUS(pandas) skills.
+
+### Submitted
+
+*  image file of your ERD. _CHECKED_
+* `.sql` file of your table schemata. _CHECKED_
+* `.sql` file of your queries. _CHECKED_
+* (Optional) Jupyter Notebook of the bonus analysis. _CHECKED_
+* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot. _CHECKED_
